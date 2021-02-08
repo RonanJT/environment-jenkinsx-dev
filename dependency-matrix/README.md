@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[RonanJT/rust-http](https://github.com/RonanJT/rust-http.git) |  | []() | 
+[RonanJT/rust-http-jx](https://github.com/RonanJT/rust-http-jx.git) |  | []() | 
