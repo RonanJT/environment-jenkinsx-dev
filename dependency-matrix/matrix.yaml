@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: RonanJT
-  repo: rust-http-jx
-  url: https://github.com/RonanJT/rust-http-jx.git
+  repo: rust-http
+  url: https://github.com/RonanJT/rust-http.git
   version: ""
   versionURL: ""
