@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: RonanJT
+    provider: github
+    repository: rust-http
+  name: ronanjt-rust-http
+spec:
+  description: Imported application for RonanJT/rust-http
+  httpCloneURL: https://github.com/RonanJT/rust-http.git
+  org: RonanJT
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: rust-http
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/RonanJT/rust-http.git
